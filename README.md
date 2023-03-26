@@ -1,6 +1,6 @@
 # British Airways Virtual Intership
 
-## This my contribution to Virtual Experience Program provided by British Airways. The program contains two main tasks to perform:
+## This is my contribution to Virtual Experience Program provided by British Airways company. The program contains two main tasks to perform:
 - ### Task 1 : 
 
 1. Scraping reviews from the web
