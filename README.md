@@ -59,7 +59,7 @@ An **AutoML** approach was used to automate the process of building and selectin
 To run this project, you need to install the following Python libraries:
 
 ```bash
-pip install numpy pandas scikit-learn beautifulsoup4 scrapy requests pycaret
+pip install -r requirements.txt
 ```
 ## Usage 
 1. Clone the repository:
