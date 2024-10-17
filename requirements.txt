@@ -1,7 +1,7 @@
-pip install beatifulsoup4
-pip install requests
-pip install pandas
-pip install pycaret
-pip install scikit-learn
-pip install nltk
-pip install wordcloud 
+beatifulsoup4
+requests
+pandas
+pycaret
+scikit-learn
+nltk
+wordcloud 
