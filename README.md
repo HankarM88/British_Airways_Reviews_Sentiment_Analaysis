@@ -70,12 +70,9 @@ cd British_Airways_Virtual_Intership
 2. Run the scraping script:
  You can run the web scraping script to collect reviews by executing the following command:
 ```bash
-python scrape_reviews.py
+python scraper.py
 ```
 3. Sentiment Analysis:
-Once the reviews are scraped and cleaned, run the sentiment analysis notebook:
-```bash
-python automl_customer_bookings.py
-```
+Once the reviews are scraped and cleaned, open sentiment analysis run the cells. You can edit the notebook to experiemnt the performance of other  machine learning models. 
 ## Conclusion
 This project showcases the application of data scraping, sentiment analysis, and AutoML techniques in real-world business scenarios like those faced by British Airways. Sentiment analysis helps understand customer opinions, while predictive modeling aids in improving customer engagement by predicting their future actions.
