@@ -14,7 +14,6 @@ This repository contains my contribution to the Virtual Experience Program provi
 - [Installation](#installation)
 - [Usage](#usage)
 - [Conclusion](#conclusion)
-- [License](#license)
 
 ## Overview
 
