@@ -1,4 +1,4 @@
-# British Airways Virtual Internship
+# British Airways Sentiment Analysis 
 
 This repository contains my contribution to the Virtual Experience Program provided by **British Airways**. The program includes two primary tasks related to **data scraping**, **sentiment analysis**, and **predictive modeling**. Below is a detailed breakdown of each task and the methods used to solve them.
 
@@ -75,7 +75,7 @@ python scraper.py
 3. Sentiment Analysis:
 Once the reviews are scraped and cleaned, open sentiment analysis run the cells. You can edit the notebook to experiemnt the performance of other  machine learning models.
 ## Results 
-The pie chart below shows the results of sentimenet analysis of British Airways reviews:<br>
+The pie chart below shows the overall results of sentiment analysis of British Airways reviews:<br>
 ![results_pie](images/sentiments.png)
 ## Conclusion
 This project showcases the application of data scraping, sentiment analysis, and AutoML techniques in real-world business scenarios like those faced by British Airways. Sentiment analysis helps understand customer opinions, while predictive modeling aids in improving customer engagement by predicting their future actions.
