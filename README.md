@@ -50,7 +50,7 @@ The dataset provided by British Airways contained several features related to cu
 
 ### 2.2 Building the AutoML Model
 An **AutoML** approach was used to automate the process of building and selecting the best machine learning model for predicting customer bookings:
-- **AutoML frameworks** like **H2O.ai** or **TPOT** were used to train multiple models and optimize hyperparameters.
+- **AutoML frameworks** like **Pycaret** or **TPOT** were used to train multiple models and optimize hyperparameters.
 - The model was evaluated based on **accuracy**, **precision**, and other key performance metrics.
 - The best model was selected for deployment based on its performance on the validation dataset.
 
@@ -59,7 +59,7 @@ An **AutoML** approach was used to automate the process of building and selectin
 To run this project, you need to install the following Python libraries:
 
 ```bash
-pip install numpy pandas scikit-learn beautifulsoup4 scrapy requests
+pip install numpy pandas scikit-learn beautifulsoup4 scrapy requests pycaret
 ```
 ## Usage 
 1. Clone the repository:
