@@ -76,6 +76,6 @@ python scraper.py
 Once the reviews are scraped and cleaned, open sentiment analysis run the cells. You can edit the notebook to experiemnt the performance of other  machine learning models.
 ## Results 
 The pie chart below shows the results of sentimenet analysis of British Airways reviews:
-![results_pie](images/sentiments.py)
+![results_pie](images/sentiments.png)
 ## Conclusion
 This project showcases the application of data scraping, sentiment analysis, and AutoML techniques in real-world business scenarios like those faced by British Airways. Sentiment analysis helps understand customer opinions, while predictive modeling aids in improving customer engagement by predicting their future actions.
